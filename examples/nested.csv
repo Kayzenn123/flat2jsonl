@@ -1,0 +1,3 @@
+customer.name,customer.city,order.total,order.paid
+Ana,Jakarta,30000,true
+Budi,Bandung,22000.5,false

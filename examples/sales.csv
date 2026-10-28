@@ -1,0 +1,4 @@
+order_id,product,price,qty,paid
+1001,kopi tubruk,15000,2,true
+1002,gula aren,22000.5,1,true
+1003,teh melati,12000,3,false
